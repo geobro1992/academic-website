@@ -152,10 +152,6 @@ cv:
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
-      - name: English
-        summary: "Native speaker"
-
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
@@ -187,10 +183,14 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
+      - name: Professor Carola Haas
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: PhD supervisor, Virginia Tech
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Holly Kindsvater
+        icon: fa-solid fa-laptop
+        reference: Postdoc supervisor, Virginia Tech
+
+      - name: Professor Olaf Jensen
+        icon: fa-solid fa-laptop
+        reference: Postdoc supervisor, Cornell University
